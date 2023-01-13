@@ -1,13 +1,6 @@
 ### Hi there 👋
-<a href="https://github.com/kawarimidoll/typograssy">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=siroio&show_icons=ture&theme=synthwave&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siroio&show_icons=true&theme=synthwave&hide_border=true" />
-</a>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siroio&show_icons=ture&theme=synthwave&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siroio&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **siroio/siroio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
